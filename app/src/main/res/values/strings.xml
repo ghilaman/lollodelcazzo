@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NFC</string>
+    <string name="action_settings">Impostazioni</string>
+    <string name="title_activity_tag">TAG</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_impostazioni">Impostazioni</string>
+    <string name="title_activity_emozioni">Emozioni</string>
+    <string name="title_activity_cibo">Cibo</string>
+    <string name="title_activity_bisogni">Bisogni</string>
+    <string name="title_activity_valle_della_luna">ValleDellaLuna</string>
+</resources>
