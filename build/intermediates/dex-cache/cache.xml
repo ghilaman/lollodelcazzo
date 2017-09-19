@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lorenzo\AndroidStudioProjects\NFCSerio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef68e65372d747ac716c5d3061337241fb95b2b">
+        <dex dex="C:\Users\Lorenzo\AndroidStudioProjects\NFCSerio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_da408d68eacd1ff2faf5e24f0c2a18f9e7ae6815\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lorenzo\Desktop\NFC\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1b933b25fd2c1a6cb53a9ed1a9cd3f273d29f16f">
+        <dex dex="C:\Users\Lorenzo\Desktop\NFC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_8257a477d7d8d0bff5e3feb9670cce2ebc49da1e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lorenzo\Desktop\NFC\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lorenzo\Desktop\NFC\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_9072115bb40873d6833423814813c725f0abca85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lorenzo\AndroidStudioProjects\NFCSerio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lorenzo\AndroidStudioProjects\NFCSerio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a6f2e51533591b7a2428e9cdc3be2912eacfb5c3\classes.dex" />
+    </item>
+
+</items>

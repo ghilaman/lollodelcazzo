@@ -1,0 +1,4 @@
+#Wed Sep 13 17:27:36 CEST 2017
+base.0=C\:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7
+renamed.0=classes.dex
+file.0=C\:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_7\\classes.dex

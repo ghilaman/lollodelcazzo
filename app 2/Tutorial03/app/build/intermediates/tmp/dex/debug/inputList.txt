@@ -1,0 +1,5 @@
+C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\classes\debug
+C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-372ec5b83483490569e2aaf6ec9b19f8e69eec2d.jar
+C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2c379fbde8f5a22a4eadc57d248164cd8f0d9a06.jar
+C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\classes-7a193fa617b489a9cafa3cfb0481289b73c6ab71.jar
+C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\classes-418ae23882a81034333c52a79849fe40adc96ecc.jar

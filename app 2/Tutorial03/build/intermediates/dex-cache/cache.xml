@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Program Files\adt-bundle\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-372ec5b83483490569e2aaf6ec9b19f8e69eec2d.jar" />
+    </item>
+    <item
+        jar="C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\classes-7a193fa617b489a9cafa3cfb0481289b73c6ab71.jar" />
+    </item>
+    <item
+        jar="C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\classes-418ae23882a81034333c52a79849fe40adc96ecc.jar" />
+    </item>
+    <item
+        jar="C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\vitor.saraiva\Documents\Tutorial03\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-2c379fbde8f5a22a4eadc57d248164cd8f0d9a06.jar" />
+    </item>
+
+</items>

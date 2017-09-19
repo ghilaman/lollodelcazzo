@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add_image.png",
+        "source": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\src\\main\\res\\mipmap-xhdpi\\add_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\play.png",
+        "source": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\src\\main\\res\\mipmap-xhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\play.png",
+        "source": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\src\\main\\res\\mipmap-xhdpi\\play.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher_round.png",
+        "source": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add.png",
+        "source": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\src\\main\\res\\mipmap-xhdpi\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\audio_image.png",
+        "source": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\src\\main\\res\\mipmap-xhdpi\\audio_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\audio_image.png",
+        "source": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\src\\main\\res\\mipmap-xhdpi\\audio_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add_image.png",
+        "source": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\src\\main\\res\\mipmap-xhdpi\\add_image.png"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\add.png",
+        "source": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\src\\main\\res\\mipmap-xhdpi\\add.png"
+    }
+]

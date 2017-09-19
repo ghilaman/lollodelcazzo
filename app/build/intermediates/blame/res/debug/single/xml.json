@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\build\\intermediates\\res\\merged\\debug\\xml\\nfc_tech_filter.xml",
+        "source": "C:\\Users\\Lorenzo\\Desktop\\NFC\\app\\src\\main\\res\\xml\\nfc_tech_filter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\build\\intermediates\\res\\merged\\debug\\xml\\nfc_tech_filter.xml",
+        "source": "C:\\Users\\Lorenzo\\AndroidStudioProjects\\NFCSerio\\app\\src\\main\\res\\xml\\nfc_tech_filter.xml"
+    }
+]

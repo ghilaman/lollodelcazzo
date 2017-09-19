@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="net.example.studente.nfc"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="18"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+
+    <uses-feature
+        android:name="android.hardware.nfc"
+        android:required="true" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="net.example.studente.nfc.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.nfc.action.TECH_DISCOVERED" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.nfc.action.TECH_DISCOVERED"
+                android:resource="@xml/nfc_tech_filter" />
+        </activity>
+        <activity
+            android:name="net.example.studente.nfc.Impostazioni"
+            android:label="@string/title_activity_impostazioni"
+            android:parentActivityName="net.example.studente.nfc.MainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="net.example.studente.nfc.Tag"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="net.example.studente.nfc.Emozioni"
+            android:label="@string/title_activity_emozioni"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="net.example.studente.nfc.Cibo"
+            android:label="@string/title_activity_cibo"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="net.example.studente.nfc.Bisogni"
+            android:label="@string/title_activity_bisogni"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="net.example.studente.nfc.ValleDellaLuna"
+            android:label="@string/title_activity_valle_della_luna"
+            android:theme="@style/AppTheme.NoActionBar" />
+    </application>
+
+</manifest>
